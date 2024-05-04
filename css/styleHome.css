@@ -1,0 +1,775 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 20, 20);
+}
+
+@media screen and (min-width: 1311px) and (max-width: 1311px) {
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /* Main */
+    
+    .i_kiiled {
+        margin-bottom: 10vh;
+        display: none;
+    }
+    
+    .horrorStory {
+        font-family: "Borel", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #f1008d;
+          
+    }
+    
+    .main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: 85vh;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* Tetx */
+    
+    .hihi{
+        display: none;
+    }
+    
+    .horrorStory {
+        word-wrap: break-word;
+        width: 50vw;
+        text-align: center;
+    }
+    
+    .pFirst {
+        font-size: 0.5em;
+    }
+    
+    .Fhehehe {
+        font-size: 0.5em;
+    }
+    
+    .wha {
+        font-size: 0.5em;
+    }
+    
+    .Shehehe{
+        font-size: 0.5em;
+    }
+    
+    .whaaat {
+        font-size: 0.5em;
+    }
+    
+    .whatIsIt {
+        font-size: 0.5em;
+    }
+
+    p {
+        font-size: 0.5em;
+    }
+    
+    /* Footer */
+    
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 15vh;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* .footerZip{
+        
+    
+    } */
+    
+    .who{
+        width: 33%;
+        height: 100%;
+    
+    }
+    
+    .biaroza{
+        color: rgba(255, 17, 0, 0.945);
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+    
+    .phone{
+        width: 33%;
+        height: 100%;
+        text-align: center;
+    }
+    .motorola{
+        color: rgb(253, 0, 0);
+        margin-top: 15%;
+        margin-left: 5%;
+        text-align: center;
+    }
+    
+    .company{
+        width: 33%;  
+        height: 100%;
+    
+    }
+    .scp{
+        color: rgb(255, 0, 0);
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+    
+}
+
+@media screen and (min-width: 1312px) {
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /* Main */
+    
+    .i_kiiled {
+        margin-bottom: 10vh;
+    }
+    
+    .horrorStory {
+        font-family: "Borel", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #FFD200;
+          
+    }
+    
+    .main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* Tetx */
+    
+    
+    
+    .horrorStory {
+        word-wrap: break-word;
+        width: 50vw;
+        text-align: center;
+    }
+    
+    .pFirst {
+        font-size: 3em;
+    }
+    
+    .Fhehehe {
+        font-size: 2em;
+    }
+    
+    .wha {
+        font-size: 1.5em;
+    }
+    
+    .Shehehe{
+        font-size: 2em;
+    }
+    
+    .whaaat {
+        font-size: 2em;
+    }
+    
+    .whatIsIt {
+        font-size: 1.3em;
+    }
+    
+    /* Footer */
+    
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* .footerZip{
+        
+    
+    } */
+    
+    .who{
+        width: 33%;
+        height: 100%;
+    
+    }
+    
+    .biaroza{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+    
+    .phone{
+        width: 33%;
+        height: 100%;
+    
+    }
+    .motorola{
+        color: antiquewhite;
+        margin-top: 15%;
+
+        text-align: center;
+    }
+    
+    .company{
+        width: 33%;  
+        height: 100%;
+    
+    }
+    .scp{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+    
+}
+
+@media screen and (min-width: 1100px) and (max-width: 1310px) {
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /* Main */
+    
+    .i_kiiled {
+        margin-bottom: 10vh;
+    }
+    
+    .horrorStory {
+        font-family: "Borel", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #FFD200;
+          
+    }
+    
+    .main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* Tetx */
+    
+    
+    
+    .horrorStory {
+        word-wrap: break-word;
+        width: 50vw;
+        text-align: center;
+    }
+    
+    .pFirst {
+        font-size: 3em;
+    }
+    
+    .Fhehehe {
+        font-size: 2em;
+    }
+    
+    .wha {
+        font-size: 1.5em;
+    }
+    
+    .Shehehe{
+        font-size: 2em;
+    }
+    
+    .whaaat {
+        font-size: 2em;
+    }
+    
+    .whatIsIt {
+        font-size: 1.3em;
+    }
+    
+    /* Footer */
+    
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* .footerZip{
+        
+    
+    } */
+    
+    .who{
+        width: 33%;
+        height: 100%;
+    
+    }
+    
+    .biaroza{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+    
+    .phone{
+        width: 33%;
+        height: 100%;
+    
+    }
+    .motorola{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        text-align: center;
+    }
+    
+    .company{
+        width: 33%;  
+        height: 100%;
+    
+    }
+    .scp{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+    
+}
+
+
+
+
+
+
+@media screen and (min-width: 550px) and (max-width: 1099px) {
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /* Main */
+    
+    .i_kiiled {
+        margin-bottom: 5vh;
+        height: 30vh;
+    }
+
+    p {
+        font-size: 1.5em;
+    }
+    
+    .horrorStory {
+        font-family: "Borel", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #FFD200;
+          
+    }
+    
+    .main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* Tetx */
+    
+    
+    
+    .horrorStory {
+        word-wrap: break-word;
+        width: 50vw;
+        text-align: center;
+    }
+    
+    .pFirst {
+        font-size: 4em;
+    }
+    
+    .Fhehehe {
+        font-size: 2.5em;
+    }
+    
+    .wha {
+        font-size: 2.5em;
+    }
+    
+    .Shehehe{
+        font-size: 2.5em;
+    }
+    
+    .whaaat {
+        font-size: 2em;
+    }
+    
+    .whatIsIt {
+        font-size: 1.7em;
+    }
+    
+    /* Footer */
+    
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* .footerZip{
+        
+    
+    } */
+    
+    .who{
+        width: 33%;
+        height: 100%;
+    
+    }
+    
+    .biaroza{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        font-size: 1em;        
+    }
+    
+    .phone{
+        width: 33%;
+        height: 100%;
+    
+    }
+    .motorola{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 1.3em;
+        text-align: center;
+    }
+    
+    .company{
+        width: 33%;  
+        height: 100%;
+    
+    }
+    .scp{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        font-size: 1em;
+    }
+
+
+
+ }
+
+ @media screen and (min-width: 350px) and (max-width: 549px) {
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /* Main */
+    
+    .i_kiiled {
+        margin-bottom: 5vh;
+        height: 20vh;
+    }
+
+    p {
+        font-size: 1em;
+    }
+    
+    .horrorStory {
+        font-family: "Borel", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #FFD200;
+          
+    }
+    
+    .main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* Tetx */
+    
+    
+    
+    .horrorStory {
+        word-wrap: break-word;
+        width: 50vw;
+        text-align: center;
+    }
+    
+    .pFirst {
+        font-size: 3em;
+    }
+    
+    .Fhehehe {
+        font-size: 2em;
+    }
+    
+    .wha {
+        font-size: 2em;
+    }
+    
+    .Shehehe{
+        font-size: 2em;
+    }
+    
+    .whaaat {
+        font-size: 1.3em;
+    }
+    
+    .whatIsIt {
+        font-size: 1.3em;
+    }
+    
+    /* Footer */
+    
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* .footerZip{
+        
+    
+    } */
+    
+    .who{
+        width: 33%;
+        height: 100%;
+    
+    }
+    
+    .biaroza{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        font-size: 0.65em;        
+    }
+    
+    .phone{
+        width: 33%;
+        height: 100%;
+    
+    }
+    .motorola{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 0.7em;;
+        text-align: center;
+    }
+    
+    .company{
+        width: 33%;  
+        height: 100%;
+    
+    }
+    .scp{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        font-size: 0.65em;;
+    }
+
+  
+
+
+
+ }
+
+
+ @media screen and (max-width: 349px) {
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /* Main */
+    
+    .i_kiiled {
+        margin-bottom: 5vh;
+        height: 17vh;
+    }
+
+    p {
+        font-size: 0.8em;
+    }
+    
+    .horrorStory {
+        font-family: "Borel", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #FFD200;
+          
+    }
+    
+    .main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* Tetx */
+    
+    
+    
+    .horrorStory {
+        word-wrap: break-word;
+        width: 50vw;
+        text-align: center;
+    }
+    
+    .pFirst {
+        font-size: 2em;
+    }
+    
+    .Fhehehe {
+        font-size: 1.2em;
+    }
+    
+    .wha {
+        font-size: 1.2em;
+    }
+    
+    .Shehehe{
+        font-size: 1.2em;
+    }
+    
+    .whaaat {
+        font-size: 1em;
+    }
+    
+    .whatIsIt {
+        font-size: 1em;
+    }
+    
+    /* Footer */
+    
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: auto;
+        background-color: rgb(10, 10, 10);
+    }
+    
+    /* .footerZip{
+        
+    
+    } */
+    
+    .who{
+        width: 33%;
+        height: 100%;
+    
+    }
+    
+    .biaroza{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        font-size: 0.45em;        
+    }
+    
+    .phone{
+        width: 33%;
+        height: 100%;
+    
+    }
+    .motorola{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-size: 0.45em;
+        text-align: center;
+    }
+    
+    .company{
+        width: 33%;  
+        height: 100%;
+    
+    }
+    .scp{
+        color: antiquewhite;
+        margin-top: 15%;
+        margin-left: 5%;
+        font-size: 0.45em;
+    }
+
+  
+
+
+
+ }
